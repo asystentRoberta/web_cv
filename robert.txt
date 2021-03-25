@@ -1,18 +1,16 @@
-<span id="a">robert@bohdziewicz.com.pl</span>:<span id="b">~</span><span id="c">$</span> cd CurriculumVitae/<!-- laglaglaglaglaglag -->
-<span id="a">robert@bohdziewicz.com.pl</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->cv_robert.txt<br/><br/>
-<!-- laglaglaglaglaglag --><!-- laglaglaglaglaglag --><!-- laglaglaglaglaglag -->
- 
-
-<p>Cześć! Jestem Java Developerem, który lubi pobawić się w terminalu (co chciałem pokazać niniejszą stroną ;) )<!-- laglaglaglaglaglaglaglaglaglaglaglag --></p>Obecnie pracuję we własnej firmie, gdzie Javę wykorzystuję do drobnych projektów ułatwiających mi pracę.</p>
-<p>Chociaż tak szczerze....<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> częściej do rozwiązywania tych problemów wykorzystuję powershella i VBA (taka natura mojego biznesu)</p></p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>Ostatnio zaangażowałem się w profesjonalne  organizowanie backapu - co dało mi możliwość zapoznania się z kolejnym technologiami i zrodziło pomysł na kolejny duży projekt w Javie<p>
-<p> Kilka (klikalnych) linków, gdzie możesz przeczytać o mnie więcej: <br> <a href="http://bohdziewicz.com.pl/cv.pdf">Moje Cv w 'tradycyjnej' formie</a> <br> <a href="https://pl.linkedin.com/in/robert-bohdziewicz-87a6b217a">Profile na LinkedIn</a><br><a href="https://github.com/asystentRoberta">No i oczywiście GitHub</a>.</p>
-
-<p>Na githubie można przejrzeć jeden duży  <a href="https://github.com/asystentRoberta/trelloDbTask">projekt</a> w Javie, który integruje wdzięczne programistycznie API usługi Trello z rekordami 'todolisty' przechowywanymi w MySqlowej bazie danych, ale też na przykład <a href="https://github.com/asystentRoberta/who-ate-my-bandwidth">projekt w GO (fork użytkownika shadyabhi)</a>, którego po zmianach używam do monitorowania całego ruchu przechodzącego przez mój domowy router/modem.</p>
-
+<span id="a">robert@bohdziewicz.com.pl</span>:<span id="b">~</span><span id="c">$</span> cd /home/robert/CurriculumVitae<!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
+<span id="a">robert@bohdziewicz.com.pl</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->cv_robert.txt <!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
+ <span id="forDate"> Data aktualizacji: 25-03-2021</span>
+<p>Cześć! Jestem <span id="javaLang">Java Developerem</span>, który lubi pobawić się w terminalu (co chciałem pokazać niniejszą stroną ;) ).<!-- laglaglaglaglaglaglaglaglaglaglaglag --></p>Obecnie pracuję we własnej firmie, gdzie <span id="javaLang">Javę</span> wykorzystuję do drobnych projektów ułatwiających mi pracę.<br/>
+Chociaż tak szczerze...<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+częściej do rozwiązywania tych problemów wykorzystuję <span id="otherLang">powershella</span> i <span id="otherLang">VBA</span> (taka natura mojego biznesu).</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Ostatnio zaangażowałem się w profesjonalne  organizowanie backapu - co dało mi możliwość zapoznania się z kolejnym technologiami i zrodziło pomysł na kolejny  projekt w  <span id="javaLang">Javie</span>.<p>
+<p>Kilka (klikalnych) linków, gdzie możesz przeczytać o mnie więcej: <br> <a2 href="http://bohdziewicz.com.pl/cv.pdf">Moje Cv w 'tradycyjnej' formie</a> <br> <a2 href="https://pl.linkedin.com/in/robert-bohdziewicz-87a6b217a">Profile na LinkedIn</a><br><a2 href="https://github.com/asystentRoberta">No i oczywiście GitHub</a>
+Na githubie można przejrzeć jeden duży  <a href="https://github.com/asystentRoberta/trelloDbTask">projekt</a> w <span id="javaLang">Javie</span>, który integruje wdzięczne programistycznie API usługi Trello z rekordami 'todolisty' przechowywanymi w <span id="otherLang">MySqlowej</span> bazie danych, ale też na przykład <a href="https://github.com/asystentRoberta/who-ate-my-bandwidth">projekt</a> w <span id="otherLang">GO</span> (fork użytkownika shadyabhi), którego po zmianach używam do monitorowania całego ruchu przechodzącego przez mój domowy router/modem.
+<span id="yellowySee">Może też zobaczyć, jak powstawała </span><a href="https://github.com/asystentRoberta/web_cv">ta strona</a> (<span id="otherLang">Html, css</span> i <span id="otherLang"> Javascipt</span>).
 <p>Zapraszam do kontaktu - po wdrożeniu będę naprawdę świetnym pracownikiem, który będzie robił to, co lubi (kodowanie), mając w zanadrzu wachlarz umiejętności rzadko u developerów spotykany.</>
 <!-- slightdelayhere-->Napisz do mnie -> <!-- longlonglongcomment --><a href="robert@bohdziewicz.com.pl">maila</a>. Na pewno odpiszę.
 
-<span id="a">robert@bohdziewicz.com.pl</span>:<span id="b">~</span><span id="c">$</span> Logout...<!-- laglaglaglaglaglag -->
-<span id="a">skynet@skynet</span>:<span id="b">~</span><span id="c">$</span> Now I'm taking over...<!-- laglaglaglaglaglag -->
+<span id="a">robert@bohdziewicz.com.pl</span>:<span id="b">~</span><span id="c">$</span> Logout...
+
+<span id="a">skynet@skynet</span>:<span id="b">~</span><span id="c">$</span><span id="k"> Now I'm taking over...<span id="k">

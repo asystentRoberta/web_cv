@@ -10,11 +10,18 @@ body {
     margin-right: auto;
     margin-top: 100px;
     font-size: 14px;
+    text-align: justify;
 }
 
 a {
     color: #0bc;
     text-decoration: none;
+}
+
+a2 {
+    color: #0bc;
+    text-decoration: none;
+    line-height: 140%;
 }
 
 #a {
@@ -29,23 +36,50 @@ a {
     color: #0bc;
 }
 
-#k {
-    animation: change 1s;
-
-}
-
 #op {
     color: #888888;
 }
 
+#forDate{
+    text-align: right;
+    display: block;
+    color: gray;
+}
+
+#redBoldP {
+    color: orange;
+    font-weight: bold;
+}
+
+#yellowySee {
+    color: #fff;
+
+}
+#javaLang{
+    color: orange;
+}
+#otherLang{
+    color: green;
+}
+
+#aSkyNet {
+    color: #0f0;
+    font-size: 16px;
+}
+
+#k {
+    animation: change 500ms;
+    font-size: 16px;
+}
+
 @keyframes change {
     0% {
-        color: #0f0;
+        color: red;
     }
     50% {
-        color: #0f9
+        color: orange;
     }
     99% {
-        color: black
+        color: black;
     }
 }

@@ -9,7 +9,7 @@ częściej do rozwiązywania tych problemów wykorzystuję <span id="otherLang">
 Na githubie można przejrzeć jeden duży  <a href="https://github.com/asystentRoberta/trelloDbTask">projekt</a> w <span id="javaLang">Javie</span>, który integruje wdzięczne programistycznie API usługi Trello z rekordami 'todolisty' przechowywanymi w <span id="otherLang">MySqlowej</span> bazie danych, ale też na przykład <a href="https://github.com/asystentRoberta/who-ate-my-bandwidth">projekt</a> w <span id="otherLang">GO</span> (fork użytkownika shadyabhi), którego po zmianach używam do monitorowania całego ruchu przechodzącego przez mój domowy router/modem.
 <span id="yellowySee">Może też zobaczyć, jak powstawała </span><a href="https://github.com/asystentRoberta/web_cv">ta strona</a> (<span id="otherLang">Html, css</span> i <span id="otherLang"> Javascipt</span>).
 <p>Zapraszam do kontaktu - po wdrożeniu będę naprawdę świetnym pracownikiem, który będzie robił to, co lubi (kodowanie), mając w zanadrzu wachlarz umiejętności rzadko u developerów spotykany.</>
-<!-- slightdelayhere-->Napisz do mnie -> <!-- longlonglongcomment --><a href="robert@bohdziewicz.com.pl">maila</a>. Na pewno odpiszę.
+<!-- slightdelayhere-->Napisz do mnie -> <!-- longlonglongcomment --><a href="mailto:robert@bohdziewicz.com.pl?subject=Mail from cv-web">maila</a>. Na pewno odpiszę.
 
 <span id="a">robert@bohdziewicz.com.pl</span>:<span id="b">~</span><span id="c">$</span> Logout...
 

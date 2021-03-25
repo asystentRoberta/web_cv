@@ -7,7 +7,7 @@ var Typer = {
     accessCount: 0,
     deniedCount: 0,
     init: function () {
-        accessCountTimer = setInterval(function () {
+        this.accessCountTimer = setInterval(function () {
             Typer.updLstChr();
         }, 500);
         $.get(Typer.file, function (data) {
@@ -27,6 +27,7 @@ var Typer = {
     addText: function (key) {
         if (Typer.text) {
             var cont = Typer.content();
+            //It stays
             if (cont.substring(cont.length - 1, cont.length) == '|')
                 $('#console').html(
                     $('#console')
@@ -35,27 +36,14 @@ var Typer = {
                 );
             if (key.keyCode != 8) {
                 Typer.index += Typer.speed;
-            } else {
-                if (Typer.index > 0)
-                    Typer.index -= Typer.speed;
             }
             var text = Typer.text.substring(0, Typer.index)
             var rtn = new RegExp('\n', 'g');
             $('#console').html(text.replace(rtn, '<br/>'));
             window.scrollBy(0, 50);
         }
-        if (key.preventDefault && key.keyCode != 122) {
-            key.preventDefault()
-        }
-        ;
 
-
-        if (key.preventDefault && key.keyCode != 122) {
-            key.preventDefault()
-        }
-        ;
-
-        if (key.keyCode != 122) { // otherway prevent keys default behavior
+        if (key.keyCode != 122) {
             key.returnValue = false;
         }
     },

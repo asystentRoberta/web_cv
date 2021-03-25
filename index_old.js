@@ -25,7 +25,21 @@ var Typer = {
     },
 
     addText: function (key) {
-        if (Typer.text) {
+        if (key.keyCode == 18) {
+            Typer.accessCount++;
+
+            if (Typer.accessCount >= 3) {
+                Typer.makeAccess();
+            }
+        } else if (key.keyCode == 20) {
+            Typer.deniedCount++;
+
+            if (Typer.deniedCount >= 3) {
+                Typer.makeDenied();
+            }
+        } else if (key.keyCode == 27) {
+            Typer.hidepop();
+        } else if (Typer.text) {
             var cont = Typer.content();
             if (cont.substring(cont.length - 1, cont.length) == '|')
                 $('#console').html(
@@ -49,7 +63,9 @@ var Typer = {
         }
         ;
 
-
+        if (key.keyCode != 122) { // otherway prevent keys default behavior
+            key.returnValue = false;
+        }
         if (key.preventDefault && key.keyCode != 122) {
             key.preventDefault()
         }

@@ -100,7 +100,7 @@ function replaceUrls(text) {
     }
 }
 
-Typer.speed = 9;
+Typer.speed = 3;
 Typer.file = "robert.txt";
 Typer.init();
 

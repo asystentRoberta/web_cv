@@ -3,15 +3,15 @@
 <!-- laglaglaglaglaglag --><!-- laglaglaglaglaglag --><!-- laglaglaglaglaglag -->
  
 
-<p>Cześć! Jestem Java Developerm, który lubi pobawić się w terminalu (co chciałem pokazać niniejszą stroną ;) )<!-- laglaglaglaglaglaglaglaglaglaglaglag --></p>Obecnie pracuje we własnej firmie, gdzie Javę wykorzystuję do drobnych projektów ułatwiających mi pracę.</p>
+<p>Cześć! Jestem Java Developerem, który lubi pobawić się w terminalu (co chciałem pokazać niniejszą stroną ;) )<!-- laglaglaglaglaglaglaglaglaglaglaglag --></p>Obecnie pracuję we własnej firmie, gdzie Javę wykorzystuję do drobnych projektów ułatwiających mi pracę.</p>
 <p>Chociaż tak szczerze....<!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> częściej do rozwiązywania tych problemów wykorzystuję powershella i VBA (taka natura mojego biznesu)</p></p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>Ostatnio zaangożawałem się w profesjonalne  organizowanie backapu - co dało mi możliwość zapoznania się z kolejnym technologiami i pomysł na kolejny duży projekt w Javie<p>
+<p>Ostatnio zaangażowałem się w profesjonalne  organizowanie backapu - co dało mi możliwość zapoznania się z kolejnym technologiami i zrodziło pomysł na kolejny duży projekt w Javie<p>
 <p> Kilka (klikalnych) linków, gdzie możesz przeczytać o mnie więcej: <br> <a href="http://bohdziewicz.com.pl/cv.pdf">Moje Cv w 'tradycyjnej' formie</a> <br> <a href="https://pl.linkedin.com/in/robert-bohdziewicz-87a6b217a">Profile na LinkedIn</a><br><a href="https://github.com/asystentRoberta">No i oczywiście GitHub</a>.</p>
 
-<p>Na githubie można przejrzeć jeden duży  <a href="https://github.com/asystentRoberta/trelloDbTask">projekt</a> w Javie, który integruje wdzięczne programistycznie API usługi Trello z rekordami 'todolisty' przechowywanymi w MySqlowej bazie danych, ale też na przykład <a href="https://github.com/asystentRoberta/who-ate-my-bandwidth">projekt w GO (fork użytkownika shadyabhi)</a>, którego po zmianach używam do moniotorowania całego ruchu przechodzącego przez mój domowy router/modem.</p>
+<p>Na githubie można przejrzeć jeden duży  <a href="https://github.com/asystentRoberta/trelloDbTask">projekt</a> w Javie, który integruje wdzięczne programistycznie API usługi Trello z rekordami 'todolisty' przechowywanymi w MySqlowej bazie danych, ale też na przykład <a href="https://github.com/asystentRoberta/who-ate-my-bandwidth">projekt w GO (fork użytkownika shadyabhi)</a>, którego po zmianach używam do monitorowania całego ruchu przechodzącego przez mój domowy router/modem.</p>
 
 <p>Zapraszam do kontaktu - po wdrożeniu będę naprawdę świetnym pracownikiem, który będzie robił to, co lubi (kodowanie), mając w zanadrzu wachlarz umiejętności rzadko u developerów spotykany.</>
-<!-- slightdelayhere-->Napisz do mnie -> <!-- longlonglongcomment --><a href="robert@bohdziewicz.com.pl">maila</a>. Napewno odpiszę. 
+<!-- slightdelayhere-->Napisz do mnie -> <!-- longlonglongcomment --><a href="robert@bohdziewicz.com.pl">maila</a>. Na pewno odpiszę.
 
 <p>Logout... :)</p>

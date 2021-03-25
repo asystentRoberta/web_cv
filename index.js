@@ -1,4 +1,4 @@
-var Typer = {
+let Typer = {
     text: '',
     accessCountTimer: null,
     index: 0,
@@ -26,9 +26,9 @@ var Typer = {
 
     addText: function (key) {
         if (Typer.text) {
-            var cont = Typer.content();
+            let cont = Typer.content();
             //It stays
-            if (cont.substring(cont.length - 1, cont.length) == '|')
+            if (cont.substring(cont.length - 1, cont.length) === '|')
                 $('#console').html(
                     $('#console')
                         .html()
@@ -37,8 +37,8 @@ var Typer = {
             if (key.keyCode != 8) {
                 Typer.index += Typer.speed;
             }
-            var text = Typer.text.substring(0, Typer.index)
-            var rtn = new RegExp('\n', 'g');
+            let text = Typer.text.substring(0, Typer.index)
+            let rtn = new RegExp('\n', 'g');
             $('#console').html(text.replace(rtn, '<br/>'));
             window.scrollBy(0, 50);
         }
@@ -48,8 +48,8 @@ var Typer = {
         }
     },
     updLstChr: function () {
-        var cont = this.content();
-        if (cont.substring(cont.length - 1, cont.length) == '|')
+        let cont = this.content();
+        if (cont.substring(cont.length - 1, cont.length) === '|')
             $('#console').html(
                 $('#console')
                     .html()
@@ -60,23 +60,12 @@ var Typer = {
     },
 };
 
-function replaceUrls(text) {
-    var http = text.indexOf("http://");
-    var space = text.indexOf(".me ", http);
-
-    if (space != -1) {
-        var url = text.slice(http, space - 1);
-        return text.replace(url, "<a href=\"" + url + "\">" + url + "</a>");
-    } else {
-        return text
-    }
-}
 
 Typer.speed = 3;
 Typer.file = "robert.txt";
 Typer.init();
 
-var timer = setInterval("t();", 30);
+let timer = setInterval("t();", 30);
 
 function t() {
     Typer.addText({"keyCode": 124748});

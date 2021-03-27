@@ -18,21 +18,36 @@ a {
     text-decoration: none;
 }
 
-a2 {
-    color: #0bc;
-    text-decoration: none;
-    line-height: 140%;
+
+
+#lineH {
+    line-height: 150%;
 }
 
 #a {
     color: #0f0;
 }
 
+#aSkynet {
+    color: #0f0;
+    font-size: 18px;
+}
+
 #b {
     color: #ff0096;
 }
 
+#bSkynet {
+    color: #ff0096;
+    font-size: 18px;
+}
+
 #c {
+    color: #0bc;
+}
+
+#c {
+    font-size: 18px;
     color: #0bc;
 }
 
@@ -62,24 +77,10 @@ a2 {
     color: green;
 }
 
-#aSkyNet {
-    color: #0f0;
-    font-size: 16px;
-}
-
 #k {
-    animation: change 500ms;
-    font-size: 16px;
+
+    font-size: 18px;
+    color: red;
+
 }
 
-@keyframes change {
-    0% {
-        color: red;
-    }
-    50% {
-        color: orange;
-    }
-    99% {
-        color: black;
-    }
-}

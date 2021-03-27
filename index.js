@@ -67,9 +67,26 @@ Typer.init();
 
 let timer = setInterval("t();", 30);
 
+function rnat() {
+
+    const annotate = RoughNotation.annotate;
+    const annotationGroup = RoughNotation.annotationGroup;
+    const $ = (t) => document.querySelector(t);
+
+
+    {
+        //Działa tylko na pierwszy natrafiony tag (span, h1,h2 czy jak w tym przypadku 'abc') - potem już nie)
+        const config = {type: 'box', padding: 6, color: '#ef0000'};
+        const a2 = annotate($('#zaznaczKolko span'), config);
+        a2.show();
+
+    }
+}
+
 function t() {
     Typer.addText({"keyCode": 124748});
     if (Typer.index > Typer.text.length) {
         clearInterval(timer);
+        rnat();
     }
 }
